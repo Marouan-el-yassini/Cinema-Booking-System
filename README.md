@@ -9,7 +9,7 @@
 
 | Movie Selection (Form1) | Ticket Details (Form2) |
 |------------------------|-----------------------------|
-| ![Form1](1cap.PNG) | ![Form2](cap2.PNG)/ |  
+| ![Form1](1cap.PNG) | ![Form2](cap2.PNG) |  
 ---
 ## Features ✨
 
