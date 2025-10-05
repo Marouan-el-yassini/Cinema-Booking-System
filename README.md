@@ -7,7 +7,7 @@
 
 ## 🖼 Screenshots
 
-| Room Selection (Form1) | Reservation Details (Form2) |
+| Movie Selection (Form1) | Ticket Details (Form2) |
 |------------------------|-----------------------------|
 | ![Form1](1cap.PNG) | ![Form2](cap2.PNG)/ |  
 ---
